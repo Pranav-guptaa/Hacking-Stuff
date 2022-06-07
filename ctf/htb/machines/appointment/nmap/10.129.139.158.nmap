@@ -1,0 +1,4 @@
+# Nmap 7.92 scan initiated Sun Jan 23 23:49:37 2022 as: nmap -sV -sC -v -oA 10.129.139.158
+Read data files from: /usr/bin/../share/nmap
+WARNING: No targets were specified, so 0 hosts scanned.
+# Nmap done at Sun Jan 23 23:49:38 2022 -- 0 IP addresses (0 hosts up) scanned in 0.51 seconds

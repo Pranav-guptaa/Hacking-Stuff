@@ -1,0 +1,8 @@
+# metasploit-framework wordlist directory
+```
+/usr/share/metasploit-framework/data/wordlists
+```
+# Best wordlist
+```
+/opt/wordlists
+```

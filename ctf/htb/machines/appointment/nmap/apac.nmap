@@ -1,0 +1,26 @@
+# Nmap 7.92 scan initiated Sun Jan 23 23:50:34 2022 as: nmap -sC -sV -oA nmap/apac 10.129.139.158
+Nmap scan report for 10.129.139.158
+Host is up (0.35s latency).
+Not shown: 984 closed tcp ports (conn-refused)
+PORT      STATE    SERVICE      VERSION
+80/tcp    open     http         Apache httpd 2.4.38 ((Debian))
+|_http-title: Login
+|_http-server-header: Apache/2.4.38 (Debian)
+84/tcp    filtered ctf
+481/tcp   filtered dvs
+1124/tcp  filtered hpvmmcontrol
+1148/tcp  filtered elfiq-repl
+1234/tcp  filtered hotline
+1248/tcp  filtered hermes
+2196/tcp  filtered unknown
+3260/tcp  filtered iscsi
+5911/tcp  filtered cpdlc
+27355/tcp filtered unknown
+30951/tcp filtered unknown
+31038/tcp filtered unknown
+44501/tcp filtered unknown
+49400/tcp filtered compaqdiag
+64680/tcp filtered unknown
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Sun Jan 23 23:55:22 2022 -- 1 IP address (1 host up) scanned in 287.47 seconds

@@ -1,0 +1,18 @@
+== proof-of-work: disabled ==
+Welcome to our file storage solution.
+
+Menu:
+- load
+- store
+- status
+- exit
+User: ctfplayer
+Time: Thu Mar 24 16:53:18 2022
+Quota: 0.026kB/64.000kB
+Files: 1
+
+Menu:
+- load
+- store
+- status
+- exit

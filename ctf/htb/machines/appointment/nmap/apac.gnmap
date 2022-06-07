@@ -1,0 +1,4 @@
+# Nmap 7.92 scan initiated Sun Jan 23 23:50:34 2022 as: nmap -sC -sV -oA nmap/apac 10.129.139.158
+Host: 10.129.139.158 ()	Status: Up
+Host: 10.129.139.158 ()	Ports: 80/open/tcp//http//Apache httpd 2.4.38 ((Debian))/, 84/filtered/tcp//ctf///, 481/filtered/tcp//dvs///, 1124/filtered/tcp//hpvmmcontrol///, 1148/filtered/tcp//elfiq-repl///, 1234/filtered/tcp//hotline///, 1248/filtered/tcp//hermes///, 2196/filtered/tcp//unknown///, 3260/filtered/tcp//iscsi///, 5911/filtered/tcp//cpdlc///, 27355/filtered/tcp//unknown///, 30951/filtered/tcp//unknown///, 31038/filtered/tcp//unknown///, 44501/filtered/tcp//unknown///, 49400/filtered/tcp//compaqdiag///, 64680/filtered/tcp//unknown///	Ignored State: closed (984)
+# Nmap done at Sun Jan 23 23:55:22 2022 -- 1 IP address (1 host up) scanned in 287.47 seconds
