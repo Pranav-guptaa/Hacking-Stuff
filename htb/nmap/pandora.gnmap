@@ -1,0 +1,4 @@
+# Nmap 7.92 scan initiated Fri Jan 21 13:27:39 2022 as: nmap -sC -sV -oA /home/kali/HTB/nmap/pandora 10.10.11.136
+Host: 10.10.11.136 ()	Status: Up
+Host: 10.10.11.136 ()	Ports: 22/open/tcp//ssh//OpenSSH 8.2p1 Ubuntu 4ubuntu0.3 (Ubuntu Linux; protocol 2.0)/, 80/open/tcp//http//Apache httpd 2.4.41 ((Ubuntu))/	Ignored State: closed (998)
+# Nmap done at Fri Jan 21 13:30:23 2022 -- 1 IP address (1 host up) scanned in 164.71 seconds

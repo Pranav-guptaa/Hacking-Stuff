@@ -1,0 +1,4 @@
+# Nmap 7.92 scan initiated Mon Jan 24 19:18:05 2022 as: nmap -sC -sV -oA nmap/initial 10.129.108.218
+Host: 10.129.108.218 ()	Status: Up
+Host: 10.129.108.218 ()	Ports: 3306/open/tcp//mysql?///	Ignored State: closed (999)
+# Nmap done at Mon Jan 24 19:22:25 2022 -- 1 IP address (1 host up) scanned in 260.53 seconds
