@@ -1,0 +1,3 @@
+burp(){
+	java --add-opens=java.desktop/javax.swing=ALL-UNNAMED --add-opens=java.base/java.lang=ALL-UNNAMED -jar /usr/share/burpsuite/burpsuite.jar
+}
